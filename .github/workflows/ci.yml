@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: spring-soapui-integration/demo
+        working-directory: demo
 
     steps:
     - name: Checkout code
